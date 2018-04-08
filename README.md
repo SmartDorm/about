@@ -13,6 +13,7 @@ Features right now include the following:
 - Controllable Volume
 - Control Lights
 - Fan for Primitive Temperature Control
+- Android App for Administrative Control
 
 ### Hardware
 - STM32F0-Discovery Board
@@ -20,3 +21,4 @@ Features right now include the following:
 ### Software
 - STM32F0-Discovery Hardware Abstraction Layer (HAL)
 - Embedded C Programming
+- Android Studio (Associated App)
