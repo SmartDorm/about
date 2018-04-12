@@ -1,6 +1,6 @@
 # About SmartDorm
 
-SmartDorm is an IoT device designed to control various things in a dorm room. This project will be submitted to ECESS Spark Challenge.
+SmartDorm is an IoT device designed to control various things in a dorm room. This project will be submitted to ECESS Spark Challenge. It is gonna be awesome!
 
 ### Features
 
